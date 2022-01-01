@@ -6,4 +6,4 @@ This project proposes to determine the accurate asset class of the fund based on
 
 Such fund classification could be further used to justify whether the existing blended benchmark is a good fit for a certain asset portfolio, or to find the optimal ratio of each blended benchmark component, thus helping our clients make better investment decisions.
 
-Wanru Hu, Yanru Chen and Sihan Yang also had important contribution to this project.
+Group members: Fangxin Wang, Wanru Hu, Yanru Chen and Sihan Yang
